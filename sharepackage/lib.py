@@ -11,4 +11,4 @@ def try_me(random_seed=420):
 
 if __name__ == "__main__":
     # Le Wagon location
-print('Call try_me() with any random number to generate a random 30 character password')     
+    print('Call try_me() with any random number to generate a random 30 character password')     
